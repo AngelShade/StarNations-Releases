@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo.png" width="450" alt="StarNations Logo" />
+</p>
+
 # 🌌 StarNations: Planets DLC
 ### *The Next Era of Space Tactical Card Battles*
 
@@ -37,9 +41,9 @@ StarNations features three distinct space-faring factions, each relying on a spe
 
 | Faction | Resource Type | Focus / Style |
 |:---|:---|:---|
-| **🔮 Arcanists** | Crystals | Spell weaving, card manipulation, and dynamic weaves. |
-| **⚙️ Technomancers** | Oil | Machinery constructs, high shield defenses, and automation. |
-| **⛺ Nomads** | Food | Swarm tactics, high mobility, and multi-resource versatility. |
+| **🔮 Arcanists** | <img src="crystal_icon.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
+| **⚙️ Technomancers** | <img src="oil_icon.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
+| **⛺ Nomads** | <img src="food_icon.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
 
 ### ⚔️ Game Flow & Phases
 Matches take place in real-time turn phases. Manage your board slots carefully:
