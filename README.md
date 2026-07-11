@@ -60,4 +60,5 @@ Matches take place in real-time turn phases. Manage your board slots carefully:
 
 ---
 
-*StarNations: Planets DLC is built using React 19 + TypeScript + Vite + Tailwind CSS 4 and packaged natively using Tauri v2.*
+From the Author : Have Fun with the current "game/demo" do whatever craziness you want with it , break it to make it ^_^ , report bugs here if you find any. 
+I will add a discord server in the near future to create a community around the game im creating.
