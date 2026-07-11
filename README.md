@@ -11,7 +11,7 @@ This repository hosts the official desktop client installers and auto-update ass
 
 ---
 
-## 🚀 Quick Install (Windows)
+##  Quick Install (Windows)
 
 To install the desktop client on Windows, follow these simple steps:
 
@@ -23,7 +23,7 @@ To install the desktop client on Windows, follow these simple steps:
 
 ---
 
-## ⚡ How Updates Work (Zero-Touch)
+##  How Updates Work (Zero-Touch)
 
 We use a fully automated, secure, and silent auto-updater. You never have to manually reinstall the game when new updates or card balance patches roll out:
 
@@ -34,18 +34,18 @@ We use a fully automated, secure, and silent auto-updater. You never have to man
 
 ---
 
-## 🎮 How to Play
+##  How to Play
 
-### 🌌 Factions & Resource System
+###  Factions & Resource System
 StarNations features three distinct space-faring factions, each relying on a specific resource type to deploy units and cast weaves (spells):
 
 | Faction | Resource Type | Focus / Style |
 |:---|:---|:---|
-| **🔮 <img src="faction_arcanist.png" width="20" height="20" align="center" /> Arcanists** | <img src="crystals.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
-| **⚙️ <img src="faction_technomancer.png" width="20" height="20" align="center" /> Technomancers** | <img src="oil.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
-| **⛺ <img src="faction_nomads.png" width="20" height="20" align="center" /> Nomads** | <img src="food.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
+| ** <img src="faction_arcanist.png" width="20" height="20" align="center" /> Arcanists** | <img src="crystals.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
+| ** <img src="faction_technomancer.png" width="20" height="20" align="center" /> Technomancers** | <img src="oil.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
+| ** <img src="faction_nomads.png" width="20" height="20" align="center" /> Nomads** | <img src="food.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
 
-### ⚔️ Game Flow & Phases
+###  Game Flow & Phases
 Matches take place in real-time turn phases. Manage your board slots carefully:
 1. **START / DRAW**: Replenish your hand and gain resources.
 2. **PLAY**: Deploy Creatures, Machineries, or cast Weaves.
@@ -54,7 +54,7 @@ Matches take place in real-time turn phases. Manage your board slots carefully:
 
 ---
 
-## 📝 System Requirements
+## System Requirements
 
 * **Operating System**: Windows 10 or 11 (64-bit)
 * **Processor**: Intel Core i3 or AMD equivalent
