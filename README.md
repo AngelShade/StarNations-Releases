@@ -4,7 +4,7 @@
 
 # The Next Era of Space Tactical Card Battles
 
-Welcome to the official release hub for **StarNations: Planets DLC**! Compile your deck, lead your faction to victory, and conquer the galaxy system by system.
+Welcome to the official release hub for **StarNations: Words of Power**! Compile your deck, lead your faction to victory, and conquer the galaxy system by system.
 
 This repository hosts the official desktop client installers and auto-update assets.
 
