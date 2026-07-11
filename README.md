@@ -37,6 +37,12 @@ Centuries ago, a cataclysmic event known as the **Great Collapse** tore through 
 
 ---
 
+<p align="center">
+  <img src="game_guide_poster.png" width="650" alt="StarNations Game Guide Poster" />
+</p>
+
+---
+
 ## How to Play
 
 ### Board Layout & Zones
