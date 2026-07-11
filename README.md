@@ -41,9 +41,9 @@ StarNations features three distinct space-faring factions, each relying on a spe
 
 | Faction | Resource Type | Focus / Style |
 |:---|:---|:---|
-| **🔮 Arcanists** | <img src="crystals.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
-| **⚙️ Technomancers** | <img src="oil.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
-| **⛺ Nomads** | <img src="food.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
+| **🔮 <img src="faction_arcanist.png" width="20" height="20" align="center" /> Arcanists** | <img src="crystals.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
+| **⚙️ <img src="faction_technomancer.png" width="20" height="20" align="center" /> Technomancers** | <img src="oil.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
+| **⛺ <img src="faction_nomads.png" width="20" height="20" align="center" /> Nomads** | <img src="food.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
 
 ### ⚔️ Game Flow & Phases
 Matches take place in real-time turn phases. Manage your board slots carefully:
