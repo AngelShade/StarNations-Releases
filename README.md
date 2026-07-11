@@ -2,7 +2,7 @@
   <img src="logo.png" width="450" alt="StarNations Logo" />
 </p>
 
-# 🌌 StarNations: Planets DLC
+
 ### *The Next Era of Space Tactical Card Battles*
 
 Welcome to the official release hub for **StarNations: Planets DLC**! Compile your deck, lead your faction to victory, and conquer the galaxy system by system. 
