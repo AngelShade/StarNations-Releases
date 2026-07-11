@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" width="650" alt="StarNations Logo" />
+  <img src="logo.png" width="850" alt="StarNations Logo" />
 </p>
 
 # The Next Era of Space Tactical Card Battles
