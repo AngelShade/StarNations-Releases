@@ -10,25 +10,25 @@ This repository hosts the official desktop client installers and auto-update ass
 
 ---
 
-## 🌌 The World of Star Nations
+## The World of Star Nations
 
 Centuries ago, a cataclysmic event known as the **Great Collapse** tore through civilized space. Warp gates failed, communication networks fell silent, and entire star systems went dark. In its wake, humanity fractured into three competing factions, each determined to claim the scattered Star Nations—resource-rich systems left adrift in the void—and rebuild galactic civilization according to their own vision.
 
-### 🔮 The Arcanists
+### The Arcanists
 * **Tagline**: Masters of the Arcane, Wielders of Crystal Power
 * **Leader**: Liana of the Myst (Archweaver Supreme)
 * **Resource**: <img src="crystals.png" width="18" height="18" align="center" /> Crystals
 * **Identity**: Intellectual elites who channel magical energy through rare crystals to weave reality. They rely on combo-heavy spells (Weaves), mystical energy Sigils, and crystalline golems.
 * **Quote**: *"Time, space, reality—all are threads in the great Weave. And I hold the needle."*
 
-### ⚙️ The Technomancers
+### The Technomancers
 * **Tagline**: Engineers of Destiny, Masters of Machine
 * **Leader**: Drago Techsmith (Forge Lord of the Iron Collective)
 * **Resource**: <img src="oil.png" width="18" height="18" align="center" /> Oil
 * **Identity**: Cold, calculating pragmatists who believe flesh fails and steel endures. They deploy armored mechanical constructs (Machineries) powered by oil extracted from industrial forge-worlds.
 * **Quote**: *"You can't negotiate with entropy. You can only build stronger walls."*
 
-### ⛺ The Nomads
+### The Nomads
 * **Tagline**: Wanderers of the Stars, Children of Fate
 * **Leader**: Bianca Starfarer (The Wayfinder)
 * **Resource**: <img src="food.png" width="18" height="18" align="center" /> Food
@@ -37,7 +37,7 @@ Centuries ago, a cataclysmic event known as the **Great Collapse** tore through 
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 ### Board Layout & Zones
 Matches take place on a shared tactical board. You must manage your zones and slots carefully:
@@ -64,7 +64,7 @@ Combat outcomes depend on your units' Attack (AP), Shield (SP), HP, and their sp
 
 ---
 
-## 🚀 Quick Install (Windows)
+## Quick Install (Windows)
 
 To install the desktop client on Windows, follow these simple steps:
 
@@ -76,7 +76,7 @@ To install the desktop client on Windows, follow these simple steps:
 
 ---
 
-## ⚡ How Updates Work (Zero-Touch)
+## How Updates Work (Zero-Touch)
 
 We use a fully automated, secure, and silent auto-updater. You never have to manually reinstall the game when new updates or card balance patches roll out:
 
@@ -87,7 +87,7 @@ We use a fully automated, secure, and silent auto-updater. You never have to man
 
 ---
 
-## 📝 System Requirements
+## System Requirements
 
 * **Operating System**: Windows 10 or 11 (64-bit)
 * **Processor**: Intel Core i3 or AMD equivalent
