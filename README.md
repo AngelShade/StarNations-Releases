@@ -41,9 +41,9 @@ StarNations features three distinct space-faring factions, each relying on a spe
 
 | Faction | Resource Type | Focus / Style |
 |:---|:---|:---|
-| **🔮 Arcanists** | <img src="crystal_icon.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
-| **⚙️ Technomancers** | <img src="oil_icon.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
-| **⛺ Nomads** | <img src="food_icon.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
+| **🔮 Arcanists** | <img src="crystals.png" width="20" height="20" align="center" /> Crystals | Spell weaving, card manipulation, and dynamic weaves. |
+| **⚙️ Technomancers** | <img src="oil.png" width="20" height="20" align="center" /> Oil | Machinery constructs, high shield defenses, and automation. |
+| **⛺ Nomads** | <img src="food.png" width="20" height="20" align="center" /> Food | Swarm tactics, high mobility, and multi-resource versatility. |
 
 ### ⚔️ Game Flow & Phases
 Matches take place in real-time turn phases. Manage your board slots carefully:
@@ -64,5 +64,4 @@ Matches take place in real-time turn phases. Manage your board slots carefully:
 
 ---
 
-From the Author : Have Fun with the current "game/demo" do whatever craziness you want with it , break it to make it ^_^ , report bugs here if you find any. 
-I will add a discord server in the near future to create a community around the game im creating.
+*StarNations: Planets DLC is built using React 19 + TypeScript + Vite + Tailwind CSS 4 and packaged natively using Tauri v2.*
