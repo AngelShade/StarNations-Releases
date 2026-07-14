@@ -35,13 +35,6 @@ Centuries ago, a cataclysmic event known as the **Great Collapse** tore through 
 * **Identity**: Adaptable star-wanderers who embrace fate and survival of the fittest. They use swarm tactics, gather food to grow their fleets, spend multiple resource types, and roll destiny dice to Evolve their units in battle.
 * **Quote**: *"Fate rolls the dice, but we choose how to play the hand."*
 
----
-
-<p align="center">
-  <img src="game_guide_poster.png" width="650" alt="StarNations Game Guide Poster" />
-</p>
-
----
 
 ## How to Play
 
