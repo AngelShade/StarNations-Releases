@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://starnations.go.ro/sitemap.xml
